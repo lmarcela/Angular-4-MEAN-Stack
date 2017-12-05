@@ -2,7 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
-Proyecto basado en el tutorial: https://www.youtube.com/watch?v=mG6zPc-L85w
+Proyecto basado en el tutorial: https://coursetro.com/posts/code/84/Setting-up-an-Angular-4-MEAN-Stack-(Tutorial)
+
 
 
 ## Development server
